@@ -1,0 +1,14 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Python environment variables
+.env
+
+data/
